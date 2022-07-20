@@ -10,24 +10,24 @@ PopupWebFrameBehaviour_09E87DFE_1444_DFBD_41B0_1950E8DE7E6A.url = //www.youtube.
 ## Hotspot
 
 ### Tooltip
-HotspotPanoramaOverlayArea_13685362_0598_F108_4185_2DBE628DBD0E.toolTip =  Khuê Văn Các
+HotspotPanoramaOverlayArea_0E7DD323_1932_EF13_41B2_6137F0B244D4.toolTip =  Khuê Văn Các
 HotspotPanoramaOverlayArea_11E91473_0599_77FD_418D_DB358615898B.toolTip = Cầu thang dẫn hướng
 HotspotPanoramaOverlayArea_109CBDD4_05FB_310F_4160_202DC082B858.toolTip = Cầu thang dẫn hướng
 HotspotPanoramaOverlayArea_1096BB03_05FB_D109_4184_D3E8F32B2484.toolTip = Cầu thang dẫn hướng
 HotspotPanoramaOverlayArea_115757A2_0599_711F_4165_F0DEFE1D93F7.toolTip = Cầu thang dẫn hướng
-HotspotPanoramaOverlayArea_03719B71_14C5_A49B_4173_DD202E59D1D4.toolTip = Cổng Vào Khuê Văn Các
-HotspotPanoramaOverlayArea_10592F20_0588_D10D_417D_D967DF7B03DC.toolTip = Cổng Vào Khuê Văn Các
+HotspotPanoramaOverlayArea_0FCD5973_1951_9BF3_41B1_46C81E2F94DA.toolTip = Cổng Vào Khuê Văn Các
+HotspotPanoramaOverlayArea_0F356967_1931_9B13_41A2_F81807788400.toolTip = Cổng Vào Khuê Văn Các
 HotspotPanoramaOverlayArea_0100D88F_14C5_A5C4_41B1_19D52F4739C0.toolTip = Cổng Vào Khuê Văn các
 HotspotPanoramaOverlayArea_0DD44E70_14C7_5CBC_416E_939BAB71EEC8.toolTip = Cổng vào Khuê Văn Các
 HotspotPanoramaOverlayArea_07B13075_1443_652F_4184_4F82F2B8D421.toolTip = Cổng vào Khuê Văn Các
 HotspotPanoramaOverlayArea_0D24DEA3_14C3_BDA2_41B2_214C66E90F1B.toolTip = Cổng vào Khuê Văn Các
 HotspotPanoramaOverlayArea_01624152_14FF_6765_4187_71996C6EF7A1.toolTip = Khuê Văn Các
 HotspotPanoramaOverlayArea_0DD81A34_14C4_A4A4_419F_61C951D7C483.toolTip = Khuê Văn Các
-HotspotPanoramaOverlayArea_108AAE83_0599_330F_4189_1E21EBB5A95C.toolTip = Khuê Văn Các
-HotspotPanoramaOverlayArea_114E915D_058B_5125_4180_6B7275B7B24A.toolTip = Khuê Văn Các
-HotspotPanoramaOverlayArea_110B98E7_058F_30E5_414F_5335E11891C9.toolTip = Khuê Văn Các
-HotspotPanoramaOverlayArea_10F2806B_05B8_EFEB_4191_C54CC5264784.toolTip = Khuê Văn Các
-HotspotPanoramaOverlayArea_16E6EB56_057B_3127_4187_C1A5ADCFAF80.toolTip = Khuê Văn Các
+HotspotPanoramaOverlayArea_0E20F5B2_1932_6B0D_41A3_859DF6E083E4.toolTip = Khuê Văn Các
+HotspotPanoramaOverlayArea_0FD28ED5_194E_B937_419D_9B86D6411138.toolTip = Khuê Văn Các
+HotspotPanoramaOverlayArea_0FC07727_194F_B713_4185_B2382401D003.toolTip = Khuê Văn Các
+HotspotPanoramaOverlayArea_01D442C4_1937_A915_4188_1AC2A493169C.toolTip = Khuê Văn Các
+HotspotPanoramaOverlayArea_0C50F141_1951_EB0F_4193_BAD171131EEE.toolTip = Khuê Văn Các
 HotspotPanoramaOverlayArea_0D1442BF_14C5_E5A4_41B3_8AD8658F5BDE.toolTip = Khuê Văn Các và Nhà Bia
 HotspotPanoramaOverlayArea_0115C1B5_14C4_A7CB_4191_196728B7E9E5.toolTip = Khuê Văn Các và Nhà Bia
 HotspotPanoramaOverlayArea_02E6E415_14C4_ECDA_4173_B36BC33108F3.toolTip = Khuê Văn Các và Nhà Bia
@@ -104,10 +104,10 @@ HotspotPanoramaOverlayArea_01FCFF27_14C5_DB2B_41A4_38653FAF3C15.toolTip = Tổng
 ### Floorplan
 
 ### Image
-imlevel_0C9824CF_1971_E929_4194_989C07F2F2B0.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_0.jpg
-imlevel_0C9BC4CF_1971_E929_41B4_E9AB591927F6.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_1.jpg
-imlevel_0C9BF4D0_1971_E937_4192_B2EE19C2B528.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_2.jpg
-imlevel_0C9BE4D0_1971_E937_419B_310993DC9E76.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_3.jpg
+imlevel_0E8D8C12_193F_B90D_41AB_4EA4A0A0E52F.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_0.jpg
+imlevel_0E8D6C13_193F_B933_41B8_798742EE424C.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_1.jpg
+imlevel_0E8D7C13_193F_B933_4190_C8AC244FD94B.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_2.jpg
+imlevel_0E8D4C13_193F_B933_4190_012129D64550.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_3.jpg
 
 ### Title
 panorama_0AF3875B_0103_52BC_411C_E9E2D575F950.label = Cầu Thang 
