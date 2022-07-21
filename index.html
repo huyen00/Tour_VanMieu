@@ -7,21 +7,21 @@
     <meta name="viewport" id="metaViewport" content="user-scalable=no, initial-scale=1, width=device-width, viewport-fit=cover" data-tdv-general-scale="0.5"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
-    <script src="lib/tdvplayer.js?v=1658378225180"></script>
-    <link rel="preload" href="locale/en.txt?v=1658378225180" as="fetch" crossorigin="anonymous"/>
-	<link rel="preload" href="script.js?v=1658378225180" as="script"/>
-	<link rel="preload" href="media/panorama_0D53C2F0_0101_B38C_4133_497236F08240_0/r/3/0_0.jpg?v=1658378225180" as="image"/>
-	<link rel="preload" href="media/panorama_0D53C2F0_0101_B38C_4133_497236F08240_0/l/3/0_0.jpg?v=1658378225180" as="image"/>
-	<link rel="preload" href="media/panorama_0D53C2F0_0101_B38C_4133_497236F08240_0/u/3/0_0.jpg?v=1658378225180" as="image"/>
-	<link rel="preload" href="media/panorama_0D53C2F0_0101_B38C_4133_497236F08240_0/d/3/0_0.jpg?v=1658378225180" as="image"/>
-	<link rel="preload" href="media/panorama_0D53C2F0_0101_B38C_4133_497236F08240_0/f/3/0_0.jpg?v=1658378225180" as="image"/>
-	<link rel="preload" href="media/panorama_0D53C2F0_0101_B38C_4133_497236F08240_0/b/3/0_0.jpg?v=1658378225180" as="image"/>
+    <script src="lib/tdvplayer.js?v=1658379760526"></script>
+    <link rel="preload" href="locale/en.txt?v=1658379760526" as="fetch" crossorigin="anonymous"/>
+	<link rel="preload" href="script.js?v=1658379760526" as="script"/>
+	<link rel="preload" href="media/panorama_0D53C2F0_0101_B38C_4133_497236F08240_0/r/3/0_0.jpg?v=1658379760526" as="image"/>
+	<link rel="preload" href="media/panorama_0D53C2F0_0101_B38C_4133_497236F08240_0/l/3/0_0.jpg?v=1658379760526" as="image"/>
+	<link rel="preload" href="media/panorama_0D53C2F0_0101_B38C_4133_497236F08240_0/u/3/0_0.jpg?v=1658379760526" as="image"/>
+	<link rel="preload" href="media/panorama_0D53C2F0_0101_B38C_4133_497236F08240_0/d/3/0_0.jpg?v=1658379760526" as="image"/>
+	<link rel="preload" href="media/panorama_0D53C2F0_0101_B38C_4133_497236F08240_0/f/3/0_0.jpg?v=1658379760526" as="image"/>
+	<link rel="preload" href="media/panorama_0D53C2F0_0101_B38C_4133_497236F08240_0/b/3/0_0.jpg?v=1658379760526" as="image"/>
 	<meta name="description" content="Virtual Tour"/>
 	<meta name="theme-color" content="#FFFFFF"/>
-    <script src="script.js?v=1658378225180"></script>
+    <script src="script.js?v=1658379760526"></script>
     <script type="text/javascript">
         var tour;
-        var devicesUrl = {"general":"script_general.js?v=1658378225180","mobile":"script_mobile.js?v=1658378225180"};
+        var devicesUrl = {"general":"script_general.js?v=1658379760526","mobile":"script_mobile.js?v=1658379760526"};
 
         (function()
         {
@@ -64,9 +64,9 @@
 
             var settings = new TDV.PlayerSettings();
             settings.set(TDV.PlayerSettings.CONTAINER, document.getElementById('viewer'));
-            settings.set(TDV.PlayerSettings.WEBVR_POLYFILL_URL, 'lib/WebVRPolyfill.js?v=1658378225180');
-            settings.set(TDV.PlayerSettings.HLS_URL, 'lib/Hls.js?v=1658378225180');
-            settings.set(TDV.PlayerSettings.QUERY_STRING_PARAMETERS, 'v=1658378225180');
+            settings.set(TDV.PlayerSettings.WEBVR_POLYFILL_URL, 'lib/WebVRPolyfill.js?v=1658379760526');
+            settings.set(TDV.PlayerSettings.HLS_URL, 'lib/Hls.js?v=1658379760526');
+            settings.set(TDV.PlayerSettings.QUERY_STRING_PARAMETERS, 'v=1658379760526');
 
             tour = new TDV.Tour(settings, devicesUrl);
             tour.bind(TDV.Tour.EVENT_TOUR_INITIALIZED, onVirtualTourInit);
@@ -332,7 +332,7 @@
         #viewer { z-index:1; }
         #preloadContainer { z-index:2; opacity:0; background-color:rgba(255,255,255,1); transition: opacity 0.5s; -webkit-transition: opacity 0.5s; -moz-transition: opacity 0.5s; -o-transition: opacity 0.5s;}
     </style>
-    <link rel="stylesheet" href="fonts.css?v=1658378225180">
+    <link rel="stylesheet" href="fonts.css?v=1658379760526">
 </head>
 <body>
     <div id="preloadContainer" class="fill-viewport"></div>
