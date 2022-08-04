@@ -5,19 +5,19 @@
 ### URL
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
-WebFrame_75BB0316_6347_4A52_41D7_EE0F191138F7_mobile.url = //www.youtube.com/embed/OoQ65IxUVXg?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=OoQ65IxUVXg
 WebFrame_75BB0316_6347_4A52_41D7_EE0F191138F7.url = //www.youtube.com/embed/OoQ65IxUVXg?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=OoQ65IxUVXg
-WebFrame_74B65A54_669B_488D_41D8_AF7852BA985F.url = //www.youtube.com/embed/RbNyOFcgx7k?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=RbNyOFcgx7k
+WebFrame_75BB0316_6347_4A52_41D7_EE0F191138F7_mobile.url = //www.youtube.com/embed/OoQ65IxUVXg?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=OoQ65IxUVXg
 WebFrame_74B65A54_669B_488D_41D8_AF7852BA985F_mobile.url = //www.youtube.com/embed/RbNyOFcgx7k?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=RbNyOFcgx7k
-WebFrame_74B78595_669B_DB8F_41D8_C62B17E6E648_mobile.url = //www.youtube.com/embed/j-ELWEjiZlI?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=j-ELWEjiZlI
+WebFrame_74B65A54_669B_488D_41D8_AF7852BA985F.url = //www.youtube.com/embed/RbNyOFcgx7k?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=RbNyOFcgx7k
 WebFrame_74B78595_669B_DB8F_41D8_C62B17E6E648.url = //www.youtube.com/embed/j-ELWEjiZlI?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=j-ELWEjiZlI
-WebFrame_75E49A4D_66A5_C89E_41D4_F08862DBD70A_mobile.url = //www.youtube.com/embed/jt0cr5OQCuU?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=jt0cr5OQCuU
+WebFrame_74B78595_669B_DB8F_41D8_C62B17E6E648_mobile.url = //www.youtube.com/embed/j-ELWEjiZlI?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=j-ELWEjiZlI
 WebFrame_75E49A4D_66A5_C89E_41D4_F08862DBD70A.url = //www.youtube.com/embed/jt0cr5OQCuU?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=jt0cr5OQCuU
+WebFrame_75E49A4D_66A5_C89E_41D4_F08862DBD70A_mobile.url = //www.youtube.com/embed/jt0cr5OQCuU?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=jt0cr5OQCuU
 WebFrame_74C27772_669A_D88A_41D5_AACA113F195D.url = //www.youtube.com/embed/map4N9P5oTU?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=map4N9P5oTU
 WebFrame_74C27772_669A_D88A_41D5_AACA113F195D_mobile.url = //www.youtube.com/embed/map4N9P5oTU?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=map4N9P5oTU
 WebFrame_74B8A5A4_669B_5B8E_41C1_550DC723C9CE_mobile.url = //www.youtube.com/embed/x-F7dw9V3Qw?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=x-F7dw9V3Qw
 WebFrame_74B8A5A4_669B_5B8E_41C1_550DC723C9CE.url = //www.youtube.com/embed/x-F7dw9V3Qw?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=x-F7dw9V3Qw
-PopupWebFrameBehaviour_40813B35_666D_4852_41C0_F684D7DE0B7D.url = //www.youtube.com/embed/nWPrPqjfPwM?v=nWPrPqjfPwM
+PopupWebFrameBehaviour_41E69865_69BF_48E6_41D5_2D85372255FE.url = //www.youtube.com/embed/nWPrPqjfPwM?v=nWPrPqjfPwM
 PopupWebFrameBehaviour_09E87DFE_1444_DFBD_41B0_1950E8DE7E6A.url = //www.youtube.com/embed/nWPrPqjfPwM?v=nWPrPqjfPwM
 
 ## Hotspot
@@ -117,10 +117,10 @@ audiores_2FC01E47_380C_BD17_41C2_2E0DCDDC5ABD.mp3Url = media/audio_2FEAD693_3817
 ### Floorplan
 
 ### Image
-imlevel_4054A103_666B_5837_418E_63D0AECDB8BE.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_0.jpg
-imlevel_40549103_666B_5837_41BC_BC02660F5C9C.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_1.jpg
-imlevel_40548103_666B_5837_41C7_7571CF2CDFFA.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_2.jpg
-imlevel_40557103_666B_5837_41D6_31BECFA06441.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_3.jpg
+imlevel_422585B3_69BA_B862_41D6_B7336C0414B3.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_0.jpg
+imlevel_422595B4_69BA_B866_41BE_96440A64C786.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_1.jpg
+imlevel_4225A5B4_69BA_B866_41C3_BBC9419EB2FE.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_2.jpg
+imlevel_4225D5B4_69BA_B866_41CF_2A959C97DD54.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_3.jpg
 
 ### Title
 panorama_0AF3875B_0103_52BC_411C_E9E2D575F950.label = Cầu Thang 
@@ -226,15 +226,15 @@ tour.name = Con Sáng Tạo
 ## VR Menu
 
 ### Text
-MenuItem_4FAE6BCB_666B_4836_41BB_DA95C4ADCB3C.label = Cầu Thang 
-MenuItem_4FAE4BCB_666B_4836_41C0_B399D4058A17.label = Cổng Vào Khuê Văn Các
-MenuItem_4FAE5BCB_666B_4836_41D6_49482C8D3648.label = Khuê Văn Các
-MenuItem_4FAE3BCB_666B_4836_41C7_0BDCED7688FD.label = Khuê Văn Các và Nhà Bia
+MenuItem_42C00C6C_69BA_C8E7_41CA_09510BF41C9E.label = Cầu Thang 
+MenuItem_42C7FC6C_69BA_C8E7_41A7_C70DCEDB147C.label = Cổng Vào Khuê Văn Các
+MenuItem_42C02C6C_69BA_C8E7_41D6_EFB4040F6D7D.label = Khuê Văn Các
+MenuItem_42C06C6D_69BA_C8E6_41D4_4CC0BAF4B5C5.label = Khuê Văn Các và Nhà Bia
 Menu_0429B36F_1E7D_BF34_4190_DC1D83EA87F3.label = Menu
-MenuItem_4FAE1BCB_666B_4836_41BA_D1182733E1C7.label = Nhà Bia Tiến Sỹ
-MenuItem_4FAEFBCC_666B_4832_41CD_3397AEEC74E0.label = Nhà Thái Học
-MenuItem_4FAE7BCB_666B_4836_41C8_F88B66ECCBAC.label = Sân Nhà Thái Học
-MenuItem_4FAD8BCB_666B_4836_41B6_146969125BFE.label = Toàn cảnh Văn Miếu Quốc Tử Giám
-MenuItem_4FAEDBCC_666B_4832_41D5_57940FC2D8C4.label = Toàn cảnh Văn Miếu Quốc Tử Giám 2
-MenuItem_4FAE2BCB_666B_4836_41D1_E12394027842.label = Tượng Chu Văn An 
-MenuItem_4FAEEBCC_666B_4832_41D2_455E70BBE9CE.label = Tượng Lý Thánh Tông
+MenuItem_42C7EC6C_69BA_C8E7_41CE_55B022B78C7D.label = Nhà Bia Tiến Sỹ
+MenuItem_42C04C6C_69BA_C8E7_41D3_C8098F229AEA.label = Nhà Thái Học
+MenuItem_42C7DC6C_69BA_C8E7_41D4_BB0F94EF74E3.label = Sân Nhà Thái Học
+MenuItem_42C01C6C_69BA_C8E7_4194_06B4AE624F1B.label = Toàn cảnh Văn Miếu Quốc Tử Giám
+MenuItem_42C03C6C_69BA_C8E7_41B4_7F8A609E08A3.label = Toàn cảnh Văn Miếu Quốc Tử Giám 2
+MenuItem_42C07C6D_69BA_C8E6_41D1_A2567A1DD9A0.label = Tượng Chu Văn An 
+MenuItem_42C7CC6C_69BA_C8E7_41D1_F7C40979CA79.label = Tượng Lý Thánh Tông
