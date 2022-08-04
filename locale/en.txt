@@ -9,8 +9,8 @@ WebFrame_75BB0316_6347_4A52_41D7_EE0F191138F7.url = //www.youtube.com/embed/OoQ6
 WebFrame_75BB0316_6347_4A52_41D7_EE0F191138F7_mobile.url = //www.youtube.com/embed/OoQ65IxUVXg?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=OoQ65IxUVXg
 WebFrame_74B65A54_669B_488D_41D8_AF7852BA985F_mobile.url = //www.youtube.com/embed/RbNyOFcgx7k?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=RbNyOFcgx7k
 WebFrame_74B65A54_669B_488D_41D8_AF7852BA985F.url = //www.youtube.com/embed/RbNyOFcgx7k?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=RbNyOFcgx7k
-WebFrame_74B78595_669B_DB8F_41D8_C62B17E6E648.url = //www.youtube.com/embed/j-ELWEjiZlI?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=j-ELWEjiZlI
 WebFrame_74B78595_669B_DB8F_41D8_C62B17E6E648_mobile.url = //www.youtube.com/embed/j-ELWEjiZlI?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=j-ELWEjiZlI
+WebFrame_74B78595_669B_DB8F_41D8_C62B17E6E648.url = //www.youtube.com/embed/j-ELWEjiZlI?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=j-ELWEjiZlI
 WebFrame_75E49A4D_66A5_C89E_41D4_F08862DBD70A.url = //www.youtube.com/embed/jt0cr5OQCuU?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=jt0cr5OQCuU
 WebFrame_75E49A4D_66A5_C89E_41D4_F08862DBD70A_mobile.url = //www.youtube.com/embed/jt0cr5OQCuU?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=jt0cr5OQCuU
 WebFrame_74C27772_669A_D88A_41D5_AACA113F195D.url = //www.youtube.com/embed/map4N9P5oTU?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=map4N9P5oTU
@@ -117,10 +117,10 @@ audiores_2FC01E47_380C_BD17_41C2_2E0DCDDC5ABD.mp3Url = media/audio_2FEAD693_3817
 ### Floorplan
 
 ### Image
-imlevel_469EC53C_67E7_78A5_41AD_754A7C332C57.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_0.jpg
-imlevel_469ED53C_67E7_78A5_41D4_EA317E40F3F4.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_1.jpg
-imlevel_469EB53C_67E7_78A5_41D2_C31279252C71.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_2.jpg
-imlevel_469E953D_67E7_78A7_41CF_25AE4794EA7E.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_3.jpg
+imlevel_45030FF1_66FD_47C5_41C4_53CE60C6499D.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_0.jpg
+imlevel_45031FF2_66FD_47C7_41B3_5ED1EDE0D729.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_1.jpg
+imlevel_45032FF2_66FD_47C7_41CD_58B4998FFDE9.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_2.jpg
+imlevel_45033FF2_66FD_47C7_418E_9E41CA69824F.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_3.jpg
 
 ### Title
 panorama_0AF3875B_0103_52BC_411C_E9E2D575F950.label = Cầu Thang 
@@ -226,15 +226,15 @@ tour.name = Con Sáng Tạo
 ## VR Menu
 
 ### Text
-MenuItem_451ABC02_67E7_485D_4191_0E0B33D9E78C.label = Cầu Thang 
-MenuItem_451A8C02_67E7_485D_41D1_516C5972A668.label = Cổng Vào Khuê Văn Các
-MenuItem_451A9C02_67E7_485D_41AD_AB1E85EE2036.label = Khuê Văn Các
-MenuItem_451AFC02_67E7_485D_41D6_8BFFFAE547E3.label = Khuê Văn Các và Nhà Bia
+MenuItem_44F28686_66FD_584F_41D1_975920E5C43F.label = Cầu Thang 
+MenuItem_44F15686_66FD_584F_41C2_B82EAF23B945.label = Cổng Vào Khuê Văn Các
+MenuItem_44F14686_66FD_584F_41D2_5ABF91EA92DA.label = Khuê Văn Các
+MenuItem_44F29686_66FD_584F_41B9_EEFC5CDD3205.label = Khuê Văn Các và Nhà Bia
 Menu_0429B36F_1E7D_BF34_4190_DC1D83EA87F3.label = Menu
-MenuItem_451A3C02_67E7_485D_41B8_8126CFC5863E.label = Nhà Bia Tiến Sỹ
-MenuItem_451A2C02_67E7_485D_41CB_143E49C2F25C.label = Nhà Thái Học
-MenuItem_451A5C01_67E7_485F_418E_C4EDB08E461F.label = Sân Nhà Thái Học
-MenuItem_451ACC02_67E7_485D_41D1_06D825BDA32A.label = Toàn cảnh Văn Miếu Quốc Tử Giám
-MenuItem_451A1C02_67E7_485D_41B6_ADDE1426038B.label = Toàn cảnh Văn Miếu Quốc Tử Giám 2
-MenuItem_451AEC02_67E7_485D_41D8_2935FA84A8E8.label = Tượng Chu Văn An 
-MenuItem_451ADC02_67E7_485D_4186_E363A62F64BF.label = Tượng Lý Thánh Tông
+MenuItem_44F17687_66FD_584D_41AC_2288C526B0C5.label = Nhà Bia Tiến Sỹ
+MenuItem_44F16687_66FD_584D_41AA_0D7FB8D6B003.label = Nhà Thái Học
+MenuItem_44F2F686_66FD_584F_41CE_15BFC71E8447.label = Sân Nhà Thái Học
+MenuItem_44F2E686_66FD_584F_41CA_DF2EA8A5FD3D.label = Toàn cảnh Văn Miếu Quốc Tử Giám
+MenuItem_44F2C686_66FD_584F_41A4_ADAF5A7BE5EE.label = Toàn cảnh Văn Miếu Quốc Tử Giám 2
+MenuItem_44F11687_66FD_584D_41D2_4E7C5BD428A0.label = Tượng Chu Văn An 
+MenuItem_44F2B686_66FD_584F_41C1_8D9AB9A33327.label = Tượng Lý Thánh Tông
