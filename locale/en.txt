@@ -17,7 +17,7 @@ WebFrame_74C27772_669A_D88A_41D5_AACA113F195D.url = //www.youtube.com/embed/map4
 WebFrame_74C27772_669A_D88A_41D5_AACA113F195D_mobile.url = //www.youtube.com/embed/map4N9P5oTU?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=map4N9P5oTU
 WebFrame_74B8A5A4_669B_5B8E_41C1_550DC723C9CE_mobile.url = //www.youtube.com/embed/x-F7dw9V3Qw?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=x-F7dw9V3Qw
 WebFrame_74B8A5A4_669B_5B8E_41C1_550DC723C9CE.url = //www.youtube.com/embed/x-F7dw9V3Qw?autoplay=1&mute=0&enablejsapi=1&loop=1&playlist=x-F7dw9V3Qw
-PopupWebFrameBehaviour_44CE31A9_699A_D86A_41D9_37EE1CFEF351.url = //www.youtube.com/embed/nWPrPqjfPwM?v=nWPrPqjfPwM
+PopupWebFrameBehaviour_439B247D_69FB_B8F0_41C3_C5BDFF55F97D.url = //www.youtube.com/embed/nWPrPqjfPwM?v=nWPrPqjfPwM
 PopupWebFrameBehaviour_09E87DFE_1444_DFBD_41B0_1950E8DE7E6A.url = //www.youtube.com/embed/nWPrPqjfPwM?v=nWPrPqjfPwM
 
 ## Hotspot
@@ -117,10 +117,10 @@ audiores_2FC01E47_380C_BD17_41C2_2E0DCDDC5ABD.mp3Url = media/audio_2FEAD693_3817
 ### Floorplan
 
 ### Image
-imlevel_434D2EC9_699A_C82A_41A6_57778326CFCB.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_0.jpg
-imlevel_434D0EC9_699A_C82A_41A6_9193BD4B584C.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_1.jpg
-imlevel_434D7EC9_699A_C82A_41D5_B0B2EF8C8B0B.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_2.jpg
-imlevel_434D6ECA_699A_C82E_41D6_3FB0F6B25F71.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_3.jpg
+imlevel_4465CD0D_69FA_C810_41D5_A97BC2F2396F.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_0.jpg
+imlevel_4465ED0D_69FA_C810_41B3_5391FEB890C9.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_1.jpg
+imlevel_4465FD0E_69FA_C810_41BE_39A5F0BEEDA9.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_2.jpg
+imlevel_44640D0E_69FA_C810_41C9_C874B7D688FF.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_3.jpg
 
 ### Title
 panorama_0AF3875B_0103_52BC_411C_E9E2D575F950.label = Cầu Thang 
@@ -226,15 +226,15 @@ tour.name = Con Sáng Tạo
 ## VR Menu
 
 ### Text
-MenuItem_43F869C5_69E5_481A_41B2_7646B18CD54E.label = Cầu Thang 
-MenuItem_43F809C5_69E5_481A_41D8_C6603667D41F.label = Cổng Vào Khuê Văn Các
-MenuItem_43F849C5_69E5_481A_41C5_D39A19E7D462.label = Khuê Văn Các
-MenuItem_43F819C5_69E5_481A_41B4_042672269505.label = Khuê Văn Các và Nhà Bia
+MenuItem_44FFB7B0_69FA_D80F_41D1_6E5CA9A008C5.label = Cầu Thang 
+MenuItem_44FFD7B0_69FA_D80F_41B6_312674597D82.label = Cổng Vào Khuê Văn Các
+MenuItem_44FF97B0_69FA_D80F_41D9_AF8F1BE5518A.label = Khuê Văn Các
+MenuItem_44FFC7B0_69FA_D80F_41CC_0CF4C6E93DD7.label = Khuê Văn Các và Nhà Bia
 Menu_0429B36F_1E7D_BF34_4190_DC1D83EA87F3.label = Menu
-MenuItem_43F999C5_69E5_481A_415F_12F6E320AB32.label = Nhà Bia Tiến Sỹ
-MenuItem_43F9A9C5_69E5_481A_41C0_773865D2050C.label = Nhà Thái Học
-MenuItem_43F859C5_69E5_481A_41B4_47399C47067B.label = Sân Nhà Thái Học
-MenuItem_43F879C5_69E5_481A_41CB_32E513238378.label = Toàn cảnh Văn Miếu Quốc Tử Giám
-MenuItem_43F9F9C4_69E5_481A_41CF_F37CE9C3EAD2.label = Toàn cảnh Văn Miếu Quốc Tử Giám 2
-MenuItem_43F829C5_69E5_481A_41C1_CC36C542AC56.label = Tượng Chu Văn An 
-MenuItem_43F839C5_69E5_481A_41D7_C90F40A600CF.label = Tượng Lý Thánh Tông
+MenuItem_44FF67B0_69FA_D80F_4168_DC1230BC49B8.label = Nhà Bia Tiến Sỹ
+MenuItem_44FFE7B0_69FA_D80F_416F_44B6865C3274.label = Nhà Thái Học
+MenuItem_44FF87B0_69FA_D80F_41D9_01717C670DEC.label = Sân Nhà Thái Học
+MenuItem_44FF77B0_69FA_D80F_41C4_CF9D8309ACAC.label = Toàn cảnh Văn Miếu Quốc Tử Giám
+MenuItem_44FF47B0_69FA_D80F_41D6_81D593D0C62B.label = Toàn cảnh Văn Miếu Quốc Tử Giám 2
+MenuItem_44FFA7B0_69FA_D80F_41BD_4983532AB48F.label = Tượng Chu Văn An 
+MenuItem_44FFF7B0_69FA_D80F_41C2_789FD73139FD.label = Tượng Lý Thánh Tông
